@@ -1,1 +1,6 @@
-# Casket_of_Wisdom
+---
+icon: hand-wave
+---
+
+# Casket\_of\_Wisdom
+
